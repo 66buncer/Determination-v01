@@ -1,0 +1,10 @@
+*.bin binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.gif binary
+*.mp3 binary
+*.wav binary
+*.ogg binary
+*.mesh binary
