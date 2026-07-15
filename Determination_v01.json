@@ -37529,6 +37529,16 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_9286792053_0437487151.png"
     },
     {
+      "name": "Determination headshot streak -> MagicCrit",
+      "replace_ids": [
+        "16537337310",
+        "16537449730"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/headshot_magic_crit.mp3"
+    },
+    {
       "name": "Determination headshot -> MagicCrit",
       "replace_ids": [
         "15109829804"
