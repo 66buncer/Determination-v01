@@ -21599,14 +21599,14 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_13216024892_de46a3d73c.png"
     },
     {
-      "name": "NUAR Raw Image 116941545385923",
+      "name": "Determination nemesis top -> Oblivion nemesis icon",
       "replace_ids": [
         "116941545385923"
       ],
       "mode": "cdn",
       "replacement": null,
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_116941545385923_f5e4223e2b.png"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/nemesis_obvilion.png"
     },
     {
       "name": "NUAR Raw Image 125362621765637",
@@ -29379,14 +29379,14 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_5920348003_ae460be5a7.png"
     },
     {
-      "name": "NUAR Raw Image 133793956251748",
+      "name": "Determination arch top -> Oblivion arch icon",
       "replace_ids": [
         "133793956251748"
       ],
       "mode": "cdn",
       "replacement": null,
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_133793956251748_0749546c95.png"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/arch_obvilion.png"
     },
     {
       "name": "NUAR Raw Image 18708143588",
@@ -37529,14 +37529,14 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_9286792053_0437487151.png"
     },
     {
-      "name": "NUAR Raw Image 15109829804",
+      "name": "Determination headshot -> MagicCrit",
       "replace_ids": [
         "15109829804"
       ],
       "mode": "cdn",
       "replacement": null,
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/images/Image_15109829804_07d25ef8e3.png"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/headshot_magic_crit.mp3"
     },
     {
       "name": "NUAR Raw Image 12814911002",
@@ -43178,31 +43178,31 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/10_oob_knocking_sub_bass_3430435b00.mp3"
     },
     {
-      "name": "NUAR manual kill -> futuristic bass hit",
+      "name": "Determination kill 1 -> Gaia Vandal 1st kill",
       "replace_ids": [
         "16530229616"
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/02_kill_bass_hit_f89922d50f.mp3"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/gaia_kill_01_vandal.mp3"
     },
     {
-      "name": "NUAR manual kill -> futuristic bass hit",
+      "name": "Determination kill 2 -> Gaia Vandal 2nd kill",
       "replace_ids": [
         "16530229541"
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/02_kill_bass_hit_f89922d50f.mp3"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/gaia_kill_02_vandal.mp3"
     },
     {
-      "name": "NUAR manual kill -> futuristic bass hit",
+      "name": "Determination kill 3 -> Gaia Ace",
       "replace_ids": [
         "16530229695"
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/02_kill_bass_hit_f89922d50f.mp3"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/gaia_kill_03_ace.mp3"
     },
     {
       "name": "NUAR manual explosion -> war field",
@@ -43212,6 +43212,15 @@
       "mode": "cdn",
       "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/01_explosion_war_field_234fc9dbdd.mp3"
+    },
+    {
+      "name": "Determination body hit -> saber hit",
+      "replace_ids": [
+        "13110130082"
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/body_hit_saber.mp3"
     }
   ]
 }
