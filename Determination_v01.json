@@ -43224,13 +43224,13 @@
       "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/01_explosion_war_field_234fc9dbdd.mp3"
     },
     {
-      "name": "Determination body hit -> saber hit",
+      "name": "Determination body hit -> ASMR hit",
       "replace_ids": [
         "13110130082"
       ],
       "mode": "cdn",
       "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/66buncer/Determination-v01/main/assets/sfx/body_hit_saber.mp3"
+      "cdn_url": "https://raw.githubusercontent.com/66buncer/ASMR-FPS-Redux/main/hitonyx_loud.wav"
     }
   ]
 }
